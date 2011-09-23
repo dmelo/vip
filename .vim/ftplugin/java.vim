@@ -14,7 +14,7 @@ setlocal expandtab
 setlocal textwidth=0
 
 " Do not wrap lines automatically
-setlocal nowrap
+setlocal wrap
 
 " Correct indentation after opening a phpdocblock and automatic * on every
 " line

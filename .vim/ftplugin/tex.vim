@@ -1,6 +1,6 @@
 setlocal expandtab
 setlocal textwidth=80
-setlocal nowrap
+setlocal wrap
 syntax on
 syntax spell toplevel
 
